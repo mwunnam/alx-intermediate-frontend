@@ -13,7 +13,7 @@ Optimize for SEO: Understand how to improve the visibility of your webpage throu
 ---
 
 ## Requirements
-A working understanding of HTML5.
-Familiarity with semantic HTML elements and their purpose.
-Basic knowledge of SEO and its importance in web development.
-Awareness of web accessibility standards, including ARIA roles and attributes.
+1. A working understanding of HTML5.
+2. Familiarity with semantic HTML elements and their purpose.
+3. Basic knowledge of SEO and its importance in web development.
+4. Awareness of web accessibility standards, including ARIA roles and attributes.
