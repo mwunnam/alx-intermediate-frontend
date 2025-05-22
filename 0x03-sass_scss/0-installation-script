@@ -12,7 +12,7 @@ nvm install 20.16.0
 
 nvm use 20.16
 
-npm install -g sass@3.7.4
+npm install -g sass
 
 echo "node version $(node -v)"
 echo "sass $(sass --version) install"
